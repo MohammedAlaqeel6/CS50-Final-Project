@@ -2,9 +2,8 @@
 ### Ezinvaders Game Video Demo: 
 <https://www.youtube.com/watch?v=-LRMiLPCKok>
 
-### Ezinvaders Game Description: ‎
-In this project I chose to develop a fighting game as a person interested in video games in order to improve my ‎technical skills.‎‏ ‏
-This game consists of two parties, the first party are the invaders who storming the player's land and the second ‎party is the cannon (Shooter) that the player uses to protect his land from invaders, and it’s has been developed ‎by using Visual basic language by identifying a public class and private subs with if statement through Microsoft ‎Visual studio to programming the game on the following scenarios:‎
+### Ezinvaders Game Description:
+In this project I chose to develop a fighting game as a person interested in video games in order to improve my technical skills. This game consists of two parties, the first party are the invaders who storming the player's land and the second party is the cannon (Shooter) that the player uses to protect his land from invaders, and it’s has been developed by using Visual basic language by identifying a public class and private subs with if statement through Microsoft Visual studio to programming the game on the following scenarios:
 
 ###### • The main scenario (Win the game):
 1. The user will click the game.
