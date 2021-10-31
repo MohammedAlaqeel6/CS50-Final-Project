@@ -5,7 +5,7 @@
 In this project I chose to develop a fighting game as a person interested in video games in order to improve my ‎technical skills.‎‏ ‏
 This game consists of two parties, the first party are the invaders who storming the player's land and the second ‎party is the cannon (Shooter) that the player uses to protect his land from invaders, and it’s has been developed ‎by using Visual basic language by identifying a public class and private subs with if statement through Microsoft ‎Visual studio to programming the game on the following scenarios:‎
 
-########## •	The main scenario (Won the game):‎
+•	The main scenario (Won the game):‎
 ‎1-‎	The user will click the game.‎
 ‎2-‎	The app will start the game.‎
 ‎3-‎	The user clicks right and left buttons to ‎direct the cannon to the invaders.‎
@@ -17,7 +17,7 @@ This game consists of two parties, the first party are the invaders who storming
 ‎9-‎	The app will display a notification “Do you want to play again?”.‎
 ‎10-‎	If the user clicks “Yes” the app will start the game again, if the user click “No” the app will close the ‎game window.‎
 
-########## •	The alternative scenario (Losing the game):‎
+•	The alternative scenario (Losing the game):‎
 ‎1-‎	The user will click the game.‎
 ‎2-‎	The app will start the game.‎
 ‎3-‎	The user clicks right and left buttons to ‎direct the cannon to the invaders.‎
