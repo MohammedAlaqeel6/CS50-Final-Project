@@ -9,7 +9,7 @@ In this project I chose to develop a fighting game as a person interested in vid
 This game consists of two parties, the first party are the invaders who storming the player's land and the second party is the cannon (Shooter) that the player uses to protect his land from invaders, and it’s has been developed by using Visual basic language by identifying a public class and private subs with if statement through Microsoft Visual studio to programming the game.
 
 ### Game Desgin 
-This game is simple in its way and comfortable in designing it in terms of colors and elements so that the game consists of only elements, namely: the cannon, the shots and the invaders, all of them in blue that is indicates the strength and confidence, which is what the parties to the game enjoy (the cannon and the invaders) Also this color represents the inspiration and knowledge that it has gained From this great cycle as well as being my favorite color.
+This game is simple in its way and comfortable in designing it in terms of colors and elements so that the game consists of only elements, namely: the cannon, the shots and the invaders, all of them in blue that is indicates the strength and confidence, which is what the parties to the game enjoy (the cannon and the invaders) Also this color represents the inspiration and knowledge that it has gained From this great course as well as being my favorite color.
 
 #### Ezinvaders Elements:
 ###### Cannon (Shooter)
